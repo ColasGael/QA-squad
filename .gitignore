@@ -1,0 +1,17 @@
+# Mac
+.DS_Store
+
+# Project
+.idea/
+
+# Python
+__pycache__
+
+# Jupyter notebook
+.ipynb_checkpoints/
+test.ipynb
+
+# Model training
+.texpadtmp/
+data/
+save/
