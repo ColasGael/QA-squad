@@ -19,8 +19,9 @@ For more details, please refer to our final report at the root: "cs224n_project_
 The starter code for this project was a custom BiDAF implementation provided by Chris Chute: [starter code](https://github.com/chrischute/squad)
 
 ## Requirements
-To create environment with all necessary packages, run "conda env create -f environment.yml".
-Then everytime you are working on this code: "conda activate squad".
+To create the environment with all the necessary packages, run "conda env create -f environment.yml".
+
+To activate the environment: "conda activate squad".
 
 ### To use the Stanford CoreNLP tokenizer
 Guidelines from: https://github.com/Lynten/stanford-corenlp/blob/master/README.md
